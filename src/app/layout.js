@@ -11,7 +11,7 @@ export const metadata = {
     default:" IntelligentTraffic Monitoring",
     template:"%s | Next.js 14"
   },
-  description: "Final Year Mjaor Project",
+  description: "Final Year Major Project",
 };
 
 export default function RootLayout({ children }) {
